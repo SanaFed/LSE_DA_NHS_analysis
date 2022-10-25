@@ -15,4 +15,6 @@ d)	if there is adequate staff and capacity in the networks, and what was the act
 08/10/2022 - Visualisations;
 15/10/2022 - Exploration of Twitter data;
 22/10/2022 - Recommendations; 
-24/10/2022 - Preparing video presentation and submitting files.
+24/10/2022 - Preparing video presentation and submitting files;
+covid_cases_mnth.xlsx was added to the repository (used additionally in the analysis).
+ 
